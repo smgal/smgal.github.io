@@ -2,6 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
+title: "안영기의 개발실"
+
 # Name of your site (displayed in the header)
 name: smgal
 
