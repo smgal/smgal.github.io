@@ -7,9 +7,9 @@ title: "안영기의 개발실"
 # Name of your site (displayed in the header)
 name: smgal
 
-disqus_url: smgal-github-io.disqus.com
-disqus_id: smgal-github-io
-discus-identifier: smgal-github-io
+#disqus_url: smgal-github-io.disqus.com
+#disqus_id: smgal-github-io
+#discus-identifier: smgal-github-io
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -40,7 +40,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: smgal-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
