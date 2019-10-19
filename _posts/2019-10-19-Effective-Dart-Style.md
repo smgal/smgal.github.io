@@ -1,11 +1,11 @@
-https://dart.dev/guides/language/effective-dart/style 에 있는 공식 문서를 번역하고 정리한 글
+[https://dart.dev/guides/language/effective-dart/style](https://dart.dev/guides/language/effective-dart/style)에 있는 공식 문서를 번역하고 정리한 글
 
 ## 네이밍 스타일
 
 다음의 3가지 스타일(flavor)을 사용한다.
 - UpperCamelCase (=PascalCase)
 - lowerCamelCase
-- lowercase_with_underscores
+- lowercase_with_underscores  
 
 - ALL_CAPS_WITH_UNDERSCORES (=SCREAMING_CAPS)은 legacy code에 의한 일관성이 필요할 때만 쓴다.
 
